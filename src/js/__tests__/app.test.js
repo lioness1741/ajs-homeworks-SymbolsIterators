@@ -1,5 +1,5 @@
-import Character from '../Character';
-import Team from '../Team';
+import Character from '../character';
+import Team from '../team';
 
 const char1 = {
   name: 'Лучник',
